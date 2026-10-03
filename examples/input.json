@@ -1,0 +1,16 @@
+{
+  "target_seconds": 10,
+  "epoch_blocks": 10,
+  "initial_difficulty": 100,
+  "clamp_factor": 4,
+  "epochs": [
+    {
+      "id": "a",
+      "elapsed_seconds": 10
+    },
+    {
+      "id": "b",
+      "elapsed_seconds": 200
+    }
+  ]
+}

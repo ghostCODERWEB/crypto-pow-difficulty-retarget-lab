@@ -1,0 +1,22 @@
+{
+  "final_difficulty": "2E+2",
+  "target_epoch_seconds": 100,
+  "trace": [
+    {
+      "applied_ratio": "4",
+      "clamped": true,
+      "id": "a",
+      "new_difficulty": "4E+2",
+      "observed_ratio": "1E+1",
+      "old_difficulty": "1E+2"
+    },
+    {
+      "applied_ratio": "0.5",
+      "clamped": false,
+      "id": "b",
+      "new_difficulty": "2E+2",
+      "observed_ratio": "0.5",
+      "old_difficulty": "4E+2"
+    }
+  ]
+}
